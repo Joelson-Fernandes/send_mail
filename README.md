@@ -1,5 +1,8 @@
+<h1 align="center"> App Send Mail </h1>
 
 ![dsBuffer bmp](https://user-images.githubusercontent.com/81213149/156610509-9fa64199-7300-4981-b74e-70e457f6bb2c.png)
+
+<p>Aplicação feita para envio de emails com facilidade e rapidez</p>
 
 <h3>Tecnologias ultilizadas</h3>
 
